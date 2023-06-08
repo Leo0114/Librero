@@ -1,0 +1,161 @@
+{
+  "total": 4560,
+  "totalPages": 912,
+  "nextPage": 2,
+  "data": {
+    "currentOrder": [
+      {
+        "id": 33330,
+        "acquisitionId": "393353",
+        "analyst": "Natalia",
+        "capturedDate": "2023-01-13T18:04:08.000Z",
+        "countedDate": "2023-01-13T18:06:58.000Z",
+        "copyId": "298864",
+        "classification": "DP402 .A72 O77",
+        "bookDescription": {
+          "title": "Aldea, sitio, pueblo Aranjuez, 1750-1841",
+          "isbn": "84-87111-27-0",
+          "author": "Ortíz Córdoba, Angel",
+          "publisher": "Eds. Doce Calles"
+        }
+      },
+      {
+        "id": 33331,
+        "acquisitionId": "393356",
+        "analyst": "Natalia",
+        "capturedDate": "2023-01-13T18:04:02.000Z",
+        "countedDate": "2023-01-13T18:06:58.000Z",
+        "copyId": "298986",
+        "classification": "DP402 .A72 V56",
+        "bookDescription": {
+          "title": "Aranjuez",
+          "isbn": "84-87111-13-0",
+          "author": "Viñas y Rey, Simón",
+          "publisher": "Eds. Doce Calles"
+        }
+      },
+      {
+        "id": 33332,
+        "acquisitionId": "498247",
+        "analyst": "Natalia",
+        "capturedDate": "2023-01-13T18:03:58.000Z",
+        "countedDate": "2023-01-13T18:06:58.000Z",
+        "copyId": "368079",
+        "classification": "E65 E87",
+        "bookDescription": {
+          "title": "Cinco héroes indígenas de América",
+          "isbn": "[sin ISBN]",
+          "author": "Estrada Quevedo, Alberto",
+          "publisher": "Instituto Indigenista Interamericano"
+        }
+      },
+      {
+        "id": 33333,
+        "acquisitionId": "515832",
+        "analyst": "Natalia",
+        "capturedDate": "2023-01-13T18:03:55.000Z",
+        "countedDate": "2023-01-13T18:06:58.000Z",
+        "copyId": "399309",
+        "classification": "E58 N37",
+        "bookDescription": {
+          "title": "National geographic on indians of the americas : a color-illustrated record",
+          "isbn": "[sin ISBN]",
+          "author": "[sin autor]",
+          "publisher": "The National Geographic Society"
+        }
+      },
+      {
+        "id": 33334,
+        "acquisitionId": "495560",
+        "analyst": "Natalia",
+        "capturedDate": "2023-01-13T18:03:51.000Z",
+        "countedDate": "2023-01-13T18:06:58.000Z",
+        "copyId": "364876",
+        "classification": "E404 .M4 M49",
+        "bookDescription": {
+          "title": "México en la guerra (1846-1848) perspectivas regionales",
+          "isbn": "968-29-9718-6",
+          "author": "[sin autor]",
+          "publisher": "Consejo Nacional Para la Cultura y las Artes:"
+        }
+      }
+    ],
+    "correctOrder": [
+      {
+        "id": 33423,
+        "acquisitionId": "428376",
+        "analyst": "Natalia",
+        "capturedDate": "2023-01-13T17:32:42.000Z",
+        "countedDate": "2023-01-13T18:06:59.000Z",
+        "copyId": "299190",
+        "classification": "AC70 S46 V.167 2007",
+        "bookDescription": {
+          "title": "Didáctica magna",
+          "isbn": "970-07-7152-0",
+          "author": "Comenio, Juan Amós",
+          "publisher": "Porrúa"
+        }
+      },
+      {
+        "id": 33439,
+        "acquisitionId": "293458",
+        "analyst": "Natalia",
+        "capturedDate": "2023-01-13T17:31:16.000Z",
+        "countedDate": "2023-01-13T18:06:59.000Z",
+        "copyId": "296791",
+        "classification": "AC70 B7318 V.153 1976",
+        "bookDescription": {
+          "title": "LA SEMANTICA",
+          "isbn": "958-38-0042-2",
+          "author": "GUIRAUD, PIERRE",
+          "publisher": "FCE"
+        }
+      },
+      {
+        "id": 33438,
+        "acquisitionId": "293453",
+        "analyst": "Natalia",
+        "capturedDate": "2023-01-13T17:31:19.000Z",
+        "countedDate": "2023-01-13T18:06:59.000Z",
+        "copyId": "296792",
+        "classification": "AC70 B3718 V.371",
+        "bookDescription": {
+          "title": "TECNICA DE LA ESCULTURA",
+          "isbn": "968-16-2200-6",
+          "author": "RUDEL, JEAN",
+          "publisher": "FCE"
+        }
+      },
+      {
+        "id": 33437,
+        "acquisitionId": "499423",
+        "analyst": "Natalia",
+        "capturedDate": "2023-01-13T17:31:22.000Z",
+        "countedDate": "2023-01-13T18:06:59.000Z",
+        "copyId": "378063",
+        "classification": "AC70 B7318 V.101 1967",
+        "bookDescription": {
+          "title": "Cómo escuchar la música",
+          "isbn": "",
+          "author": "Copland, Aaron",
+          "publisher": "FCE"
+        }
+      },
+      {
+        "id": 33436,
+        "acquisitionId": "495923",
+        "analyst": "Natalia",
+        "capturedDate": "2023-01-13T17:31:24.000Z",
+        "countedDate": "2023-01-13T18:06:59.000Z",
+        "copyId": "366546",
+        "classification": "AC70 B73 V.6",
+        "bookDescription": {
+          "title": "La danza y el ballet : introducción al conocimiento de la danza de arte y del ballet",
+          "isbn": "968-16-0480-6",
+          "author": "Salazar, Adolfo",
+          "publisher": "FCE"
+        }
+      }
+    ]
+  }
+}

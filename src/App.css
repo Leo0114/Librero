@@ -1,0 +1,21 @@
+#root {
+  margin: 0 auto;
+}
+
+.App,
+body {
+  min-height: 100vh;
+  height: 100%;
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}
+
+.container-paper {
+  height: 100%;
+  flex: 1;
+  margin: 0;
+}

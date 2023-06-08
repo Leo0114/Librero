@@ -1,0 +1,82 @@
+export const getPreviousAndNextResponseMock = {
+  prevBooks: [
+    {
+      id: 33331,
+      acquisitionId: "393356",
+      analyst: "Natalia",
+      capturedDate: "2023-01-13T18:04:02.000Z",
+      countedDate: "2023-01-13T18:06:58.000Z",
+      copyId: "298986",
+      classification: "DP402 .A72 V56",
+      bookDescription: {
+        title: "Aranjuez",
+        isbn: "84-87111-13-0",
+        author: "Viñas y Rey, Simón",
+        publisher: "Eds. Doce Calles",
+      },
+    },
+    {
+      id: 33332,
+      acquisitionId: "498247",
+      analyst: "Natalia",
+      capturedDate: "2023-01-13T18:03:58.000Z",
+      countedDate: "2023-01-13T18:06:58.000Z",
+      copyId: "368079",
+      classification: "E65 E87",
+      bookDescription: {
+        title: "Cinco héroes indígenas de América",
+        isbn: "[sin ISBN]",
+        author: "Estrada Quevedo, Alberto",
+        publisher: "Instituto Indigenista Interamericano",
+      },
+    },
+  ],
+  currentBook: {
+    id: 33333,
+    acquisitionId: "515832",
+    analyst: "Natalia",
+    capturedDate: "2023-01-13T18:03:55.000Z",
+    countedDate: "2023-01-13T18:06:58.000Z",
+    copyId: "399309",
+    classification: "E58 N37",
+    bookDescription: {
+      title:
+        "National geographic on indians of the americas : a color-illustrated record",
+      isbn: "[sin ISBN]",
+      author: "[sin autor]",
+      publisher: "The National Geographic Society",
+    },
+  },
+  nextBooks: [
+    {
+      id: 33334,
+      acquisitionId: "495560",
+      analyst: "Natalia",
+      capturedDate: "2023-01-13T18:03:51.000Z",
+      countedDate: "2023-01-13T18:06:58.000Z",
+      copyId: "364876",
+      classification: "E404 .M4 M49",
+      bookDescription: {
+        title: "México en la guerra (1846-1848) perspectivas regionales",
+        isbn: "968-29-9718-6",
+        author: "[sin autor]",
+        publisher: "Consejo Nacional Para la Cultura y las Artes:",
+      },
+    },
+    {
+      id: 33335,
+      acquisitionId: "495878",
+      analyst: "Natalia",
+      capturedDate: "2023-01-13T18:01:54.000Z",
+      countedDate: "2023-01-13T18:06:58.000Z",
+      copyId: "365296",
+      classification: "DP302 .C74 H57",
+      bookDescription: {
+        title: "Historia de Ciudad Real",
+        isbn: "84-606-1654-1",
+        author: "[sin autor]",
+        publisher: "Caja Castillo La Mancha",
+      },
+    },
+  ],
+};

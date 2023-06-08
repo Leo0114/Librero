@@ -1,0 +1,3 @@
+type BookPosition = {
+    bookId: string;
+}
